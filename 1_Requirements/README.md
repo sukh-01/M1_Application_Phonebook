@@ -35,7 +35,7 @@ This project supports the following types .
 # SWOT Analysis
 
 ## Strengths
-1. They provide contact info
+1. It become easy for the use to store complete information about his/her project
 2. You can use a directory to get emergency help
 
 ## Weakness
