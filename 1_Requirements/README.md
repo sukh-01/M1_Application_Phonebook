@@ -45,14 +45,20 @@ This project supports the following types .
 1.  Scope in Business field
 
 ## Threats
-1. Loss of data 
+1. Advanced features already exists
 
 # High Level Requirements
-ID	Description	Status
-HLR_1	The user can calculate the CAGR	Implemented
-HLR_2	The user can calculate the Discount	Implemented
-HLR_3	The user can calculate the PPF	Implemented
-HLR_4	The user can calculate the EMI	Implemented
+| ID   |      Description     |  Status |
+|----------|:-------------:|------:|
+| HLR_1 |  The user can add contacts | Implemented  |
+| HLR_2 |    The user can view contacts  | Implemented  |
+| HLR_3 |    The user can modify existing contact  | Implemented  |
+| HLR_4 |    The user can delete contacts  | Implemented  |
 
 # Low Level Requirements
+| ID   |      Description     |  Status |
+|----------|:-------------:|------:|
+| LLR_1 |  List of operations displayed | Implemented  |
+| LLR_2 |  Input from the user  | Implemented  |
+| LLR_3 |  Exit the program  | Implemented  |
 
