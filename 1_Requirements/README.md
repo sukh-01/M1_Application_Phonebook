@@ -48,6 +48,11 @@ This project supports the following types .
 1. Loss of data 
 
 # High Level Requirements
+ID	Description	Status
+HLR_1	The user can calculate the CAGR	Implemented
+HLR_2	The user can calculate the Discount	Implemented
+HLR_3	The user can calculate the PPF	Implemented
+HLR_4	The user can calculate the EMI	Implemented
 
 # Low Level Requirements
 
