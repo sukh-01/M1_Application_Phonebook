@@ -42,7 +42,7 @@ This project supports the following types .
 1.  They rely completely on people adding their own contact information so that they will become part of it.
 
 ## Opportunities
-1.  Scope in Business field
+1.  GUI can be used to enhance the visual look .
 
 ## Threats
 1. Advanced features already exists
