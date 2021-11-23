@@ -39,13 +39,14 @@ This project supports the following types .
 2. You can use a directory to get emergency help
 
 ## Weakness
-1.  They rely completely on people adding their own contact information so that they will become part of it.
+1.  Sometimes it becomes difficult to store more contacts
 
 ## Opportunities
-1.  GUI can be used to enhance the visual look .
+1.  Fast speed data processing.
+2.  System is very user friendly. 
 
 ## Threats
-1. Advanced features already exists
+1. Data Leakage via Malicious Apps.
 
 # High Level Requirements
 | ID   |      Description     |  Status |
