@@ -1,12 +1,12 @@
 # M1_Application_Phonebook
-CODACY BADGE:
+# CODACY BADGE:
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/23a656c4073042acbc8df2a9954ed006)](https://www.codacy.com/gh/gulamsuhail00/M1_Application_Phonebook/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=gulamsuhail00/M1_Application_Phonebook&amp;utm_campaign=Badge_Grade)
-CODE SCORE:
+# CODE SCORE:
 
 ![code_quality_score](https://api.codiga.io/project/30006/score/svg)
 
-CODE GRADE:
+# CODE GRADE:
 
 ![CODE GRADE](https://api.codiga.io/project/30006/status/svg)
 
